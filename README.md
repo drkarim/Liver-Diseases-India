@@ -13,8 +13,8 @@ Any patient whose age exceeded 89 is listed as being of age "90".
 
 ## Attribute Information:
 
-- Age Age of the patient
-- Gender Gender of the patient
+- Age of the patient
+- Gender of the patient
 - TB Total Bilirubin
 - DB Direct Bilirubin
 - Alkphos Alkaline Phosphotase
